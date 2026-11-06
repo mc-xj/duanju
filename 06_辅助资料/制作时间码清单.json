@@ -1,0 +1,105 @@
+{
+  "version": "expanded",
+  "scenes": [
+    {
+      "scene": "1-1",
+      "title": "雨夜翻页",
+      "shots": 5,
+      "seconds": 35,
+      "start": "00:00",
+      "end": "00:35"
+    },
+    {
+      "scene": "1-2",
+      "title": "战壕醒来",
+      "shots": 7,
+      "seconds": 40,
+      "start": "00:35",
+      "end": "01:15"
+    },
+    {
+      "scene": "1-3",
+      "title": "窑洞献计",
+      "shots": 16,
+      "seconds": 92,
+      "start": "01:15",
+      "end": "02:47"
+    },
+    {
+      "scene": "1-4",
+      "title": "东关夜袭",
+      "shots": 8,
+      "seconds": 45,
+      "start": "02:47",
+      "end": "03:32"
+    },
+    {
+      "scene": "1-5",
+      "title": "灯下定策",
+      "shots": 8,
+      "seconds": 45,
+      "start": "03:32",
+      "end": "04:17"
+    },
+    {
+      "scene": "1-6",
+      "title": "三日挖壕",
+      "shots": 9,
+      "seconds": 45,
+      "start": "04:17",
+      "end": "05:02"
+    },
+    {
+      "scene": "1-7",
+      "title": "坑道险局",
+      "shots": 7,
+      "seconds": 40,
+      "start": "05:02",
+      "end": "05:42"
+    },
+    {
+      "scene": "1-8",
+      "title": "破城号角",
+      "shots": 10,
+      "seconds": 60,
+      "start": "05:42",
+      "end": "06:42"
+    },
+    {
+      "scene": "1-9",
+      "title": "涵洞突入",
+      "shots": 8,
+      "seconds": 45,
+      "start": "06:42",
+      "end": "07:27"
+    },
+    {
+      "scene": "1-10",
+      "title": "司令部决战",
+      "shots": 8,
+      "seconds": 45,
+      "start": "07:27",
+      "end": "08:12"
+    },
+    {
+      "scene": "1-11",
+      "title": "城头余晖",
+      "shots": 10,
+      "seconds": 60,
+      "start": "08:12",
+      "end": "09:12"
+    },
+    {
+      "scene": "1-12",
+      "title": "归来与注脚",
+      "shots": 8,
+      "seconds": 40,
+      "start": "09:12",
+      "end": "09:52"
+    }
+  ],
+  "story_shots": 104,
+  "main_seconds": 592,
+  "credits_seconds": 8,
+  "total_seconds": 600
+}
