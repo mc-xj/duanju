@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial" data-pptx-page-role="content">
+<rect id="background" data-pptx-role="background" width="1280" height="720" fill="#101B22" />
+<g id="title" data-pptx-bounds="56 38 1160 112"><text x="58" y="62" font-size="20" fill="#C5A370">设定 / TWO TIMELINES</text><text x="56" y="127" font-family="SimSun, Cambria" font-size="48" fill="#F2EBDD">两条时间线，一次相逢</text></g>
+<g id="modern-world" data-pptx-bounds="56 190 556 356"><image href="../配图/ppt_v2_scene01.png" x="56" y="190" width="556" height="238" preserveAspectRatio="xMidYMid meet" /><text x="56" y="474" font-size="30" fill="#C5A370">现代 / 雨夜宿舍</text><text x="56" y="522" font-size="26" fill="#F2EBDD">研究1949年太原战役的史料</text></g>
+<g id="imagined-world" data-pptx-bounds="668 190 556 356"><image href="../配图/ppt_v2_scene02.png" x="668" y="190" width="556" height="238" preserveAspectRatio="xMidYMid meet" /><text x="668" y="474" font-size="30" fill="#C5A370">架空1945 / 太原南门</text><text x="668" y="522" font-size="26" fill="#F2EBDD">陈小满的记忆与独立团的行动</text></g>
+<g id="history-note" data-pptx-bounds="56 573 1168 66"><line x1="56" y1="575" x2="1224" y2="575" stroke="#B54E42" stroke-width="2" /><text x="56" y="620" font-size="26" fill="#F2EBDD">真实太原解放于1949年4月24日；片中1945年攻城属于架空虚构。</text></g>
+<g id="footer" data-pptx-role="footer" data-pptx-bounds="56 660 1168 30" fill="#B5C1C3" font-size="14"><text x="58" y="680">来源：文学润色版 · 双时间线前缀与史实对照</text><text x="1142" y="680">03 / 30</text></g>
+</svg>

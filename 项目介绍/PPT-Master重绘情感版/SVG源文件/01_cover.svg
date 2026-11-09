@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial" data-pptx-page-role="cover">
+<defs><linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#101B22" stop-opacity="0.1" /><stop offset="0.55" stop-color="#101B22" stop-opacity="0.25" /><stop offset="1" stop-color="#101B22" stop-opacity="1" /></linearGradient></defs>
+<image id="hero-scene" data-pptx-role="background" href="../配图/ppt_v2_cover.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice" />
+<rect id="scrim" data-pptx-role="decoration" width="1280" height="720" fill="url(#fade)" />
+<g id="opening-title" data-pptx-bounds="56 340 1118 268"><text x="64" y="378" font-size="20" fill="#F2EBDD">《亮剑》同人架空历史微电影 · 项目介绍</text><text x="60" y="506" font-family="SimSun, Cambria" font-size="96" fill="#F2EBDD">破晓太原</text><rect x="66" y="548" width="64" height="4" fill="#B54E42" /><text x="154" y="566" font-size="30" fill="#F2EBDD">一段架空的相逢，一份真实的铭记。</text></g>
+<g id="cover-footer" data-pptx-role="footer" data-pptx-bounds="64 654 1152 35" fill="#B5C1C3" font-size="14"><text x="64" y="677">12场 · 104镜 · 原脚本10分钟　/　依据 mc-xj/duanju 当前仓库</text><text x="1134" y="677">01 / 30</text></g>
+</svg>

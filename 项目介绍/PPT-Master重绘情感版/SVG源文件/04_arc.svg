@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial" data-pptx-page-role="content">
+<rect id="background" data-pptx-role="background" width="1280" height="720" fill="#101B22" />
+<g id="title" data-pptx-bounds="56 38 1168 112"><text x="58" y="62" font-size="20" fill="#C5A370">人物成长 / THE ARC</text><text x="56" y="127" font-family="SimSun, Cambria" font-size="48" fill="#F2EBDD">从改写结局，到铭记普通人</text></g>
+<g id="growth-sequence" data-pptx-bounds="56 210 1168 210"><g id="arc-spine" data-pptx-bounds="90 228 1100 16"><line x1="96" y1="236" x2="1184" y2="236" stroke="#526168" stroke-width="2" /></g>
+<g id="wish" data-pptx-bounds="56 210 256 210"><circle cx="96" cy="236" r="8" fill="#C5A370" /><text x="56" y="304" font-size="32" font-family="SimSun, Cambria" fill="#F2EBDD">渴望</text><text x="56" y="359" font-size="26" fill="#B5C1C3"><tspan x="56" dy="0">希望悲剧</tspan><tspan x="56" dy="40">更早结束</tspan></text></g>
+<g id="responsibility" data-pptx-bounds="360 210 256 210"><circle cx="400" cy="236" r="8" fill="#C5A370" /><text x="360" y="304" font-size="32" font-family="SimSun, Cambria" fill="#F2EBDD">承担</text><text x="360" y="359" font-size="26" fill="#B5C1C3"><tspan x="360" dy="0">献计与引路</tspan><tspan x="360" dy="40">开始影响战局</tspan></text></g>
+<g id="shock" data-pptx-bounds="664 210 256 210"><circle cx="704" cy="236" r="8" fill="#B54E42" /><text x="664" y="304" font-size="32" font-family="SimSun, Cambria" fill="#F2EBDD">震颤</text><text x="664" y="359" font-size="26" fill="#B5C1C3"><tspan x="664" dy="0">首次开枪</tspan><tspan x="664" dy="40">亲历战友牺牲</tspan></text></g>
+<g id="remember" data-pptx-bounds="968 210 256 210"><circle cx="1008" cy="236" r="8" fill="#B54E42" /><text x="968" y="304" font-size="32" font-family="SimSun, Cambria" fill="#F2EBDD">铭记</text><text x="968" y="359" font-size="26" fill="#B5C1C3"><tspan x="968" dy="0">回到现实</tspan><tspan x="968" dy="40">留下普通人的名字</tspan></text></g>
+</g>
+<g id="arc-resolution" data-pptx-bounds="56 474 1168 156"><rect x="56" y="474" width="1168" height="152" fill="#1C2B31" /><text x="88" y="529" font-size="30" fill="#F2EBDD">他带回来的，是对生命的理解。</text><text x="88" y="585" font-size="26" fill="#B5C1C3">从“那些人也许能活下来”，走向郑重写下“致敬先辈”。</text></g>
+<g id="footer" data-pptx-role="footer" data-pptx-bounds="56 660 1168 30" fill="#B5C1C3" font-size="14"><text x="58" y="680">来源：文学润色版 · 陈峰角色弧光；成长阶段为本PPT整理</text><text x="1142" y="680">04 / 30</text></g>
+</svg>

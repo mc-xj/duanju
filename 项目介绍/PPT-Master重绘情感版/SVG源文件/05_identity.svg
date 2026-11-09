@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial" data-pptx-page-role="content">
+<rect id="background" data-pptx-role="background" width="1280" height="720" fill="#101B22" />
+<g id="title" data-pptx-bounds="56 38 1168 112"><text x="58" y="62" font-size="20" fill="#C5A370">主角 / 陈峰与陈小满</text><text x="56" y="127" font-family="SimSun, Cambria" font-size="48" fill="#F2EBDD">同一张脸，两段人生</text></g>
+<g id="modern-identity" data-pptx-bounds="56 178 556 440"><image href="../配图/ppt_v2_identity_modern.png" x="56" y="178" width="556" height="326" preserveAspectRatio="xMidYMid meet" /><text x="56" y="552" font-family="SimSun, Cambria" font-size="32" fill="#C5A370">陈峰 / 22岁历史系学生</text><text x="56" y="598" font-size="26" fill="#F2EBDD">现代分镜：灰卫衣、黑框眼镜</text></g>
+<g id="wartime-identity" data-pptx-bounds="668 178 556 440"><image href="../配图/ppt_v2_identity_war.png" x="668" y="178" width="556" height="326" preserveAspectRatio="xMidYMid meet" /><text x="668" y="552" font-family="SimSun, Cambria" font-size="32" fill="#C5A370">陈小满 / 20岁独立团新兵</text><text x="668" y="598" font-size="26" fill="#F2EBDD">修城劳役经历，成为情报的来源</text></g>
+<g id="footer" data-pptx-role="footer" data-pptx-bounds="56 660 1168 30" fill="#B5C1C3" font-size="14"><text x="58" y="680">依据：人物参考与文学润色版；双身份肖像为PPT独立重绘</text><text x="1142" y="680">05 / 30</text></g>
+</svg>
