@@ -1,0 +1,2109 @@
+{
+  "schema": "ppt-master.svg-quality-report.v1",
+  "stage": "final",
+  "target": "/workspace/presentation-projects/duanju_introduction_pptmaster_ppt169_20261109",
+  "source_fingerprint": {
+    "algorithm": "sha256",
+    "digest": "6c988d6e92a8729d124e8426c0fd0291e0c49d4a402fa204d48735150a7f33f6",
+    "file_count": 30,
+    "files": [
+      {
+        "file": "01_cover.svg",
+        "sha256": "56296017a2dc93d56de02eb41e10b5e0d9d9d196e181a0973dcfafeefcb11b67"
+      },
+      {
+        "file": "02_premise.svg",
+        "sha256": "1098e6e6f0bce4f8460aba51b3eefb116533363146ee2040974fd30a95928942"
+      },
+      {
+        "file": "03_world.svg",
+        "sha256": "239fa47bd33359a337113c02b8fb66b491d80037d65dc23bb25be45632563819"
+      },
+      {
+        "file": "04_arc.svg",
+        "sha256": "890ff05a2458fa66e9d052568949d8b186a9f7c0b47b02fa6abea2149af23bbb"
+      },
+      {
+        "file": "05_identity.svg",
+        "sha256": "f6851104af9bbf4ea7f5dca661e808e59ea2d0913b89d56d3d3a17452e06cdb8"
+      },
+      {
+        "file": "06_team.svg",
+        "sha256": "6b5dde14a39ab245357d85bdd3652ce71e55467daac2ec37b8f26d35cf1e5bf4"
+      },
+      {
+        "file": "07_wang.svg",
+        "sha256": "a7dc4f983fc9b9ce502e02020e116b83a3f70b920977fa7a6517c4a6ce2dd9de"
+      },
+      {
+        "file": "08_map.svg",
+        "sha256": "8669e6bd429218a8f02f4c1405811160b2c2f68828a7a32c23e8f67eab1c9591"
+      },
+      {
+        "file": "09_scene01.svg",
+        "sha256": "99776333ddcb0d6307b2739c61d44ff379eacb47eacced13e946f063ac25921d"
+      },
+      {
+        "file": "10_scene02.svg",
+        "sha256": "35117c5732a3a4603eea55a2794df77774090f57a1043c00fee62c11975ccd22"
+      },
+      {
+        "file": "11_scene03.svg",
+        "sha256": "a3da0fc1b0af6a23c0e5e282c827f5391c78fb094e8824266fcaf79a846505e6"
+      },
+      {
+        "file": "12_scene04.svg",
+        "sha256": "e5259781c6e2421290be70274b6d2e2b7369293ea257d34e9e29347f3e52ac8b"
+      },
+      {
+        "file": "13_scene05.svg",
+        "sha256": "2543213c17a413d9f8fa6e00b6762dad927ddae547c5e059e1f6122392f2b8bb"
+      },
+      {
+        "file": "14_scene06.svg",
+        "sha256": "0235a526f2d2c502a9f8a171832e514f65c62a6222b10dee9d5bf506c93c5063"
+      },
+      {
+        "file": "15_scene07.svg",
+        "sha256": "00ef55a724f90e94027531e1d0e80f7805214aff38ef65fd717a06a655e7c07c"
+      },
+      {
+        "file": "16_scene08.svg",
+        "sha256": "fc31555d5ff81f38523c68fe11c975041b0e90da5fc30b17358dc5d0c56a36d6"
+      },
+      {
+        "file": "17_scene09.svg",
+        "sha256": "b9e69d7a5b6d7753be18b748c989cfbb586f6bf5a88886a15021ae73004a7804"
+      },
+      {
+        "file": "18_scene10.svg",
+        "sha256": "6c9a10de63180dc161320b59a59dd6d01f3fce59cb4a4a7645b886d1649bfbc8"
+      },
+      {
+        "file": "19_scene11.svg",
+        "sha256": "d97e4daa9ecc351ced839ddf1af494cb22d446a977eff4d7d22f11408efbc357"
+      },
+      {
+        "file": "20_scene12.svg",
+        "sha256": "3291aeb3fcab50aeca9f614190aba14dfeab9f58f4174740bc858f09afc3274b"
+      },
+      {
+        "file": "21_cloth.svg",
+        "sha256": "5539affeb8fa26dcc90b5859481ad170625443ee0f842723fbc00ce88bfc4b0f"
+      },
+      {
+        "file": "22_look.svg",
+        "sha256": "0ddb375e88a793302c07307980864b03e8698c12b70182dcba2d113cbb1a33e3"
+      },
+      {
+        "file": "23_continuity.svg",
+        "sha256": "7b8889da822dbbe7ab04b5fbe6a8d95b6cae9d2677a3dc185c80898496c312de"
+      },
+      {
+        "file": "24_cards.svg",
+        "sha256": "8c619da2268205473acae018a2a1982e5152a1b3eaa643fcf95e649bd874d085"
+      },
+      {
+        "file": "25_assets.svg",
+        "sha256": "960e8906c80a80516e931af5824e7b67ccb35551236b34a006519ccaf41cbd7e"
+      },
+      {
+        "file": "26_workflow.svg",
+        "sha256": "aacb367e18828b109b2d3bb7a394806b12bb76e821edcef175f890752ceeae41"
+      },
+      {
+        "file": "27_sound.svg",
+        "sha256": "0a1ebfab1bc809b4a4d0ca233c5683cdb253149d469f3b435d59131430ca6a1d"
+      },
+      {
+        "file": "28_timing.svg",
+        "sha256": "f090fb26baf0bd43ee6f640811b35015ad82165e05608070ad8224d1c7021925"
+      },
+      {
+        "file": "29_sources.svg",
+        "sha256": "765050c749d18ea5d6a7244455c2b8f92024e90f5879f4300ebad4993bd1603d"
+      },
+      {
+        "file": "30_closing.svg",
+        "sha256": "aa87964dfa89d8e06740a2dc6721b9c910900f995aef36c3ad8c9070169bb56c"
+      }
+    ]
+  },
+  "summary": {
+    "total": 30,
+    "passed": 27,
+    "warnings": 3,
+    "errors": 0
+  },
+  "issue_types": {},
+  "categories": {
+    "blocking": {
+      "count": 0,
+      "issues": []
+    },
+    "introduced": {
+      "count": 9,
+      "issues": [
+        {
+          "file": "06_team.svg",
+          "message": "Image ../images/李云龙.png is 1448x1086 and renders at 0.19x scale in a 268x201 meet frame; the source is 3.2 MiB — file-size advisory only, not an aspect-ratio warning; consider a smaller source asset, or export with svg_to_pptx.py --image-sizing display to downsize at export time"
+        },
+        {
+          "file": "06_team.svg",
+          "message": "Image ../images/赵刚.png is 1448x1086 and renders at 0.19x scale in a 268x201 meet frame; the source is 3.0 MiB — file-size advisory only, not an aspect-ratio warning; consider a smaller source asset, or export with svg_to_pptx.py --image-sizing display to downsize at export time"
+        },
+        {
+          "file": "06_team.svg",
+          "message": "Image ../images/张大彪.png is 1448x1086 and renders at 0.19x scale in a 268x201 meet frame; the source is 3.1 MiB — file-size advisory only, not an aspect-ratio warning; consider a smaller source asset, or export with svg_to_pptx.py --image-sizing display to downsize at export time"
+        },
+        {
+          "file": "06_team.svg",
+          "message": "Image ../images/魏大勇.png is 1448x1086 and renders at 0.19x scale in a 268x201 meet frame; the source is 3.1 MiB — file-size advisory only, not an aspect-ratio warning; consider a smaller source asset, or export with svg_to_pptx.py --image-sizing display to downsize at export time"
+        },
+        {
+          "file": "21_cloth.svg",
+          "message": "Image ../images/1-8-10.png is 1916x821 and renders at 0.23x scale in a 368x192 slice frame; the source is 2.5 MiB — file-size advisory only, not an aspect-ratio warning; consider a smaller source asset, or export with svg_to_pptx.py --image-sizing display to downsize at export time"
+        },
+        {
+          "file": "21_cloth.svg",
+          "message": "Image ../images/1-12-02.png is 1916x821 and renders at 0.23x scale in a 368x192 slice frame; the source is 1.9 MiB — file-size advisory only, not an aspect-ratio warning; consider a smaller source asset, or export with svg_to_pptx.py --image-sizing display to downsize at export time"
+        },
+        {
+          "file": "21_cloth.svg",
+          "message": "Image ../images/1-12-06.png is 1916x821 and renders at 0.23x scale in a 368x192 slice frame; the source is 1.8 MiB — file-size advisory only, not an aspect-ratio warning; consider a smaller source asset, or export with svg_to_pptx.py --image-sizing display to downsize at export time"
+        },
+        {
+          "file": "24_cards.svg",
+          "message": "Image ../images/片头_破晓太原.png is 1916x821 and renders at 0.19x scale in a 368x158 meet frame; the source is 2.1 MiB — file-size advisory only, not an aspect-ratio warning; consider a smaller source asset, or export with svg_to_pptx.py --image-sizing display to downsize at export time"
+        },
+        {
+          "file": "24_cards.svg",
+          "message": "Image ../images/第01集_雨夜翻页.png is 1916x821 and renders at 0.19x scale in a 368x158 meet frame; the source is 1.7 MiB — file-size advisory only, not an aspect-ratio warning; consider a smaller source asset, or export with svg_to_pptx.py --image-sizing display to downsize at export time"
+        }
+      ]
+    },
+    "inherited": {
+      "count": 0,
+      "issues": []
+    },
+    "source-import": {
+      "count": 0,
+      "summary": {
+        "warning_count": 0,
+        "by_code": {}
+      }
+    }
+  },
+  "drift": {
+    "colors": {},
+    "fonts": {},
+    "sizes": {}
+  },
+  "carrier_receipt": {
+    "scope": "informational-not-a-quota",
+    "pages": 30,
+    "totals": {
+      "text_elements": 289,
+      "image_placements": 35,
+      "icons": 0,
+      "svg_geometry_elements": 49,
+      "preset_shapes": 4,
+      "page_frame_elements": 31,
+      "marker_uses": 0,
+      "inline_emphasis_runs": 0,
+      "gradient_uses": 5,
+      "filter_uses": 0,
+      "text_effects": 0
+    },
+    "pages_with": {
+      "images": 23,
+      "icons": 0,
+      "presets": 2,
+      "charts": 0,
+      "tables": 0,
+      "formulas": 0,
+      "inline_emphasis_runs": 0,
+      "gradient_uses": 5,
+      "filter_uses": 0,
+      "text_effects": 0
+    },
+    "relationship_pages": 23,
+    "geometry_elements": {
+      "circle": 8,
+      "ellipse": 0,
+      "line": 8,
+      "path": 0,
+      "polygon": 0,
+      "polyline": 0,
+      "rect": 33
+    },
+    "preset_names": {
+      "rightArrow": 3,
+      "snip1Rect": 1
+    },
+    "native_objects": {
+      "chart": 0,
+      "formula_block": 0,
+      "formula_inline": 0,
+      "other": 0,
+      "table": 0
+    },
+    "image_page_max_frame_share_range": [
+      0.0585,
+      1.0
+    ]
+  },
+  "project_issues": {
+    "template": [],
+    "animation": [],
+    "illustration": [],
+    "communication_trace": [],
+    "pptx_structure": []
+  },
+  "files": [
+    {
+      "file": "01_cover.svg",
+      "path": "/workspace/presentation-projects/duanju_introduction_pptmaster_ppt169_20261109/svg_output/01_cover.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 5,
+          "images": {
+            "placements": 1,
+            "files": [
+              "1-11-01.png"
+            ],
+            "max_frame_share": 1.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 1,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial",
+          "SimSun, Cambria"
+        ],
+        "text_elements": 5,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "56296017a2dc93d56de02eb41e10b5e0d9d9d196e181a0973dcfafeefcb11b67"
+    },
+    {
+      "file": "02_premise.svg",
+      "path": "/workspace/presentation-projects/duanju_introduction_pptmaster_ppt169_20261109/svg_output/02_premise.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 8,
+          "images": {
+            "placements": 1,
+            "files": [
+              "1-2-05.png"
+            ],
+            "max_frame_share": 0.2658
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 1,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial",
+          "SimSun, Cambria"
+        ],
+        "text_elements": 8,
+        "tspan_elements": 7
+      },
+      "passed": true,
+      "source_sha256": "1098e6e6f0bce4f8460aba51b3eefb116533363146ee2040974fd30a95928942"
+    },
+    {
+      "file": "03_world.svg",
+      "path": "/workspace/presentation-projects/duanju_introduction_pptmaster_ppt169_20261109/svg_output/03_world.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 9,
+          "images": {
+            "placements": 2,
+            "files": [
+              "1-1-01.png",
+              "1-2-05.png"
+            ],
+            "max_frame_share": 0.1436
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 1,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 1,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial",
+          "SimSun, Cambria"
+        ],
+        "text_elements": 9,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "239fa47bd33359a337113c02b8fb66b491d80037d65dc23bb25be45632563819"
+    },
+    {
+      "file": "04_arc.svg",
+      "path": "/workspace/presentation-projects/duanju_introduction_pptmaster_ppt169_20261109/svg_output/04_arc.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 14,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 4,
+              "ellipse": 0,
+              "line": 1,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial",
+          "SimSun, Cambria"
+        ],
+        "text_elements": 14,
+        "tspan_elements": 8
+      },
+      "passed": true,
+      "source_sha256": "890ff05a2458fa66e9d052568949d8b186a9f7c0b47b02fa6abea2149af23bbb"
+    },
+    {
+      "file": "05_identity.svg",
+      "path": "/workspace/presentation-projects/duanju_introduction_pptmaster_ppt169_20261109/svg_output/05_identity.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 8,
+          "images": {
+            "placements": 2,
+            "files": [
+              "陈峰_战时版.png",
+              "陈峰_现代装版.png"
+            ],
+            "max_frame_share": 0.1967
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 1,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial",
+          "SimSun, Cambria"
+        ],
+        "text_elements": 8,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "f6851104af9bbf4ea7f5dca661e808e59ea2d0913b89d56d3d3a17452e06cdb8"
+    },
+    {
+      "file": "06_team.svg",
+      "path": "/workspace/presentation-projects/duanju_introduction_pptmaster_ppt169_20261109/svg_output/06_team.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Image ../images/李云龙.png is 1448x1086 and renders at 0.19x scale in a 268x201 meet frame; the source is 3.2 MiB — file-size advisory only, not an aspect-ratio warning; consider a smaller source asset, or export with svg_to_pptx.py --image-sizing display to downsize at export time",
+        "Image ../images/赵刚.png is 1448x1086 and renders at 0.19x scale in a 268x201 meet frame; the source is 3.0 MiB — file-size advisory only, not an aspect-ratio warning; consider a smaller source asset, or export with svg_to_pptx.py --image-sizing display to downsize at export time",
+        "Image ../images/张大彪.png is 1448x1086 and renders at 0.19x scale in a 268x201 meet frame; the source is 3.1 MiB — file-size advisory only, not an aspect-ratio warning; consider a smaller source asset, or export with svg_to_pptx.py --image-sizing display to downsize at export time",
+        "Image ../images/魏大勇.png is 1448x1086 and renders at 0.19x scale in a 268x201 meet frame; the source is 3.1 MiB — file-size advisory only, not an aspect-ratio warning; consider a smaller source asset, or export with svg_to_pptx.py --image-sizing display to downsize at export time"
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 17,
+          "images": {
+            "placements": 4,
+            "files": [
+              "张大彪.png",
+              "李云龙.png",
+              "赵刚.png",
+              "魏大勇.png"
+            ],
+            "max_frame_share": 0.0585
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 1,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial",
+          "SimSun, Cambria"
+        ],
+        "text_elements": 17,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "6b5dde14a39ab245357d85bdd3652ce71e55467daac2ec37b8f26d35cf1e5bf4"
+    },
+    {
+      "file": "07_wang.svg",
+      "path": "/workspace/presentation-projects/duanju_introduction_pptmaster_ppt169_20261109/svg_output/07_wang.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 6,
+          "images": {
+            "placements": 1,
+            "files": [
+              "1-7-07.png"
+            ],
+            "max_frame_share": 1.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 1,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 1,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial",
+          "SimSun, Cambria"
+        ],
+        "text_elements": 6,
+        "tspan_elements": 6
+      },
+      "passed": true,
+      "source_sha256": "a7dc4f983fc9b9ce502e02020e116b83a3f70b920977fa7a6517c4a6ce2dd9de"
+    },
+    {
+      "file": "08_map.svg",
+      "path": "/workspace/presentation-projects/duanju_introduction_pptmaster_ppt169_20261109/svg_output/08_map.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 6,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 1,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 1,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 2,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial",
+          "SimSun, Cambria"
+        ],
+        "text_elements": 6,
+        "tspan_elements": 12
+      },
+      "passed": true,
+      "source_sha256": "8669e6bd429218a8f02f4c1405811160b2c2f68828a7a32c23e8f67eab1c9591"
+    },
+    {
+      "file": "09_scene01.svg",
+      "path": "/workspace/presentation-projects/duanju_introduction_pptmaster_ppt169_20261109/svg_output/09_scene01.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 7,
+          "images": {
+            "placements": 1,
+            "files": [
+              "1-1-01.png"
+            ],
+            "max_frame_share": 0.436
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 1,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial",
+          "SimSun, Cambria"
+        ],
+        "text_elements": 7,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "99776333ddcb0d6307b2739c61d44ff379eacb47eacced13e946f063ac25921d"
+    },
+    {
+      "file": "10_scene02.svg",
+      "path": "/workspace/presentation-projects/duanju_introduction_pptmaster_ppt169_20261109/svg_output/10_scene02.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 8,
+          "images": {
+            "placements": 2,
+            "files": [
+              "1-2-03.png",
+              "1-2-05.png"
+            ],
+            "max_frame_share": 0.2414
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 1,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial",
+          "SimSun, Cambria"
+        ],
+        "text_elements": 8,
+        "tspan_elements": 2
+      },
+      "passed": true,
+      "source_sha256": "35117c5732a3a4603eea55a2794df77774090f57a1043c00fee62c11975ccd22"
+    },
+    {
+      "file": "11_scene03.svg",
+      "path": "/workspace/presentation-projects/duanju_introduction_pptmaster_ppt169_20261109/svg_output/11_scene03.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 9,
+          "images": {
+            "placements": 1,
+            "files": [
+              "1-3-11.png"
+            ],
+            "max_frame_share": 0.2827
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 1,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial",
+          "SimSun, Cambria"
+        ],
+        "text_elements": 9,
+        "tspan_elements": 5
+      },
+      "passed": true,
+      "source_sha256": "a3da0fc1b0af6a23c0e5e282c827f5391c78fb094e8824266fcaf79a846505e6"
+    },
+    {
+      "file": "12_scene04.svg",
+      "path": "/workspace/presentation-projects/duanju_introduction_pptmaster_ppt169_20261109/svg_output/12_scene04.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 7,
+          "images": {
+            "placements": 1,
+            "files": [
+              "1-4-08.png"
+            ],
+            "max_frame_share": 0.4639
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 1,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial",
+          "SimSun, Cambria"
+        ],
+        "text_elements": 7,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "e5259781c6e2421290be70274b6d2e2b7369293ea257d34e9e29347f3e52ac8b"
+    },
+    {
+      "file": "13_scene05.svg",
+      "path": "/workspace/presentation-projects/duanju_introduction_pptmaster_ppt169_20261109/svg_output/13_scene05.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 12,
+          "images": {
+            "placements": 1,
+            "files": [
+              "1-5-06.png"
+            ],
+            "max_frame_share": 0.2342
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 1,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 3,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial",
+          "SimSun, Cambria"
+        ],
+        "text_elements": 12,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "2543213c17a413d9f8fa6e00b6762dad927ddae547c5e059e1f6122392f2b8bb"
+    },
+    {
+      "file": "14_scene06.svg",
+      "path": "/workspace/presentation-projects/duanju_introduction_pptmaster_ppt169_20261109/svg_output/14_scene06.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 7,
+          "images": {
+            "placements": 1,
+            "files": [
+              "1-6-05.png"
+            ],
+            "max_frame_share": 0.436
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 1,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial",
+          "SimSun, Cambria"
+        ],
+        "text_elements": 7,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "0235a526f2d2c502a9f8a171832e514f65c62a6222b10dee9d5bf506c93c5063"
+    },
+    {
+      "file": "15_scene07.svg",
+      "path": "/workspace/presentation-projects/duanju_introduction_pptmaster_ppt169_20261109/svg_output/15_scene07.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 7,
+          "images": {
+            "placements": 1,
+            "files": [
+              "1-7-07.png"
+            ],
+            "max_frame_share": 1.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 1,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 1,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial",
+          "SimSun, Cambria"
+        ],
+        "text_elements": 7,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "00ef55a724f90e94027531e1d0e80f7805214aff38ef65fd717a06a655e7c07c"
+    },
+    {
+      "file": "16_scene08.svg",
+      "path": "/workspace/presentation-projects/duanju_introduction_pptmaster_ppt169_20261109/svg_output/16_scene08.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 7,
+          "images": {
+            "placements": 1,
+            "files": [
+              "1-8-09.png"
+            ],
+            "max_frame_share": 0.4385
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 1,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial",
+          "SimSun, Cambria"
+        ],
+        "text_elements": 7,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "fc31555d5ff81f38523c68fe11c975041b0e90da5fc30b17358dc5d0c56a36d6"
+    },
+    {
+      "file": "17_scene09.svg",
+      "path": "/workspace/presentation-projects/duanju_introduction_pptmaster_ppt169_20261109/svg_output/17_scene09.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 9,
+          "images": {
+            "placements": 1,
+            "files": [
+              "1-9-08.png"
+            ],
+            "max_frame_share": 0.2658
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 1,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial",
+          "SimSun, Cambria"
+        ],
+        "text_elements": 9,
+        "tspan_elements": 6
+      },
+      "passed": true,
+      "source_sha256": "b9e69d7a5b6d7753be18b748c989cfbb586f6bf5a88886a15021ae73004a7804"
+    },
+    {
+      "file": "18_scene10.svg",
+      "path": "/workspace/presentation-projects/duanju_introduction_pptmaster_ppt169_20261109/svg_output/18_scene10.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 10,
+          "images": {
+            "placements": 1,
+            "files": [
+              "1-10-08.png"
+            ],
+            "max_frame_share": 0.3001
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 1,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial",
+          "SimSun, Cambria"
+        ],
+        "text_elements": 10,
+        "tspan_elements": 6
+      },
+      "passed": true,
+      "source_sha256": "6c9a10de63180dc161320b59a59dd6d01f3fce59cb4a4a7645b886d1649bfbc8"
+    },
+    {
+      "file": "19_scene11.svg",
+      "path": "/workspace/presentation-projects/duanju_introduction_pptmaster_ppt169_20261109/svg_output/19_scene11.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 8,
+          "images": {
+            "placements": 1,
+            "files": [
+              "1-11-08.png"
+            ],
+            "max_frame_share": 1.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 1,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 1,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial",
+          "SimSun, Cambria"
+        ],
+        "text_elements": 8,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "d97e4daa9ecc351ced839ddf1af494cb22d446a977eff4d7d22f11408efbc357"
+    },
+    {
+      "file": "20_scene12.svg",
+      "path": "/workspace/presentation-projects/duanju_introduction_pptmaster_ppt169_20261109/svg_output/20_scene12.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 7,
+          "images": {
+            "placements": 1,
+            "files": [
+              "1-12-06.png"
+            ],
+            "max_frame_share": 0.4436
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 1,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial",
+          "SimSun, Cambria"
+        ],
+        "text_elements": 7,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "3291aeb3fcab50aeca9f614190aba14dfeab9f58f4174740bc858f09afc3274b"
+    },
+    {
+      "file": "21_cloth.svg",
+      "path": "/workspace/presentation-projects/duanju_introduction_pptmaster_ppt169_20261109/svg_output/21_cloth.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Image ../images/1-8-10.png is 1916x821 and renders at 0.23x scale in a 368x192 slice frame; the source is 2.5 MiB — file-size advisory only, not an aspect-ratio warning; consider a smaller source asset, or export with svg_to_pptx.py --image-sizing display to downsize at export time",
+        "Image ../images/1-12-02.png is 1916x821 and renders at 0.23x scale in a 368x192 slice frame; the source is 1.9 MiB — file-size advisory only, not an aspect-ratio warning; consider a smaller source asset, or export with svg_to_pptx.py --image-sizing display to downsize at export time",
+        "Image ../images/1-12-06.png is 1916x821 and renders at 0.23x scale in a 368x192 slice frame; the source is 1.8 MiB — file-size advisory only, not an aspect-ratio warning; consider a smaller source asset, or export with svg_to_pptx.py --image-sizing display to downsize at export time"
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 11,
+          "images": {
+            "placements": 3,
+            "files": [
+              "1-12-02.png",
+              "1-12-06.png",
+              "1-8-10.png"
+            ],
+            "max_frame_share": 0.0767
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 1,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 1,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial",
+          "SimSun, Cambria"
+        ],
+        "text_elements": 11,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "5539affeb8fa26dcc90b5859481ad170625443ee0f842723fbc00ce88bfc4b0f"
+    },
+    {
+      "file": "22_look.svg",
+      "path": "/workspace/presentation-projects/duanju_introduction_pptmaster_ppt169_20261109/svg_output/22_look.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 10,
+          "images": {
+            "placements": 2,
+            "files": [
+              "1-1-01.png",
+              "1-11-01.png"
+            ],
+            "max_frame_share": 0.1436
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 1,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial",
+          "SimSun, Cambria"
+        ],
+        "text_elements": 10,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "0ddb375e88a793302c07307980864b03e8698c12b70182dcba2d113cbb1a33e3"
+    },
+    {
+      "file": "23_continuity.svg",
+      "path": "/workspace/presentation-projects/duanju_introduction_pptmaster_ppt169_20261109/svg_output/23_continuity.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 9,
+          "images": {
+            "placements": 2,
+            "files": [
+              "1-1-01.png",
+              "1-12-06.png"
+            ],
+            "max_frame_share": 0.1436
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 1,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial",
+          "SimSun, Cambria"
+        ],
+        "text_elements": 9,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "7b8889da822dbbe7ab04b5fbe6a8d95b6cae9d2677a3dc185c80898496c312de"
+    },
+    {
+      "file": "24_cards.svg",
+      "path": "/workspace/presentation-projects/duanju_introduction_pptmaster_ppt169_20261109/svg_output/24_cards.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Image ../images/片头_破晓太原.png is 1916x821 and renders at 0.19x scale in a 368x158 meet frame; the source is 2.1 MiB — file-size advisory only, not an aspect-ratio warning; consider a smaller source asset, or export with svg_to_pptx.py --image-sizing display to downsize at export time",
+        "Image ../images/第01集_雨夜翻页.png is 1916x821 and renders at 0.19x scale in a 368x158 meet frame; the source is 1.7 MiB — file-size advisory only, not an aspect-ratio warning; consider a smaller source asset, or export with svg_to_pptx.py --image-sizing display to downsize at export time"
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 12,
+          "images": {
+            "placements": 3,
+            "files": [
+              "片头_破晓太原.png",
+              "片尾_致敬先辈.png",
+              "第01集_雨夜翻页.png"
+            ],
+            "max_frame_share": 0.0631
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 1,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial",
+          "SimSun, Cambria"
+        ],
+        "text_elements": 12,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "8c619da2268205473acae018a2a1982e5152a1b3eaa643fcf95e649bd874d085"
+    },
+    {
+      "file": "25_assets.svg",
+      "path": "/workspace/presentation-projects/duanju_introduction_pptmaster_ppt169_20261109/svg_output/25_assets.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 13,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 1,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial",
+          "SimSun, Cambria"
+        ],
+        "text_elements": 13,
+        "tspan_elements": 8
+      },
+      "passed": true,
+      "source_sha256": "960e8906c80a80516e931af5824e7b67ccb35551236b34a006519ccaf41cbd7e"
+    },
+    {
+      "file": "26_workflow.svg",
+      "path": "/workspace/presentation-projects/duanju_introduction_pptmaster_ppt169_20261109/svg_output/26_workflow.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 18,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 1,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 3,
+            "preset_names": {
+              "rightArrow": 3
+            },
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial",
+          "SimSun, Cambria"
+        ],
+        "text_elements": 18,
+        "tspan_elements": 8
+      },
+      "passed": true,
+      "source_sha256": "aacb367e18828b109b2d3bb7a394806b12bb76e821edcef175f890752ceeae41"
+    },
+    {
+      "file": "27_sound.svg",
+      "path": "/workspace/presentation-projects/duanju_introduction_pptmaster_ppt169_20261109/svg_output/27_sound.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 13,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 1,
+              "circle": 4,
+              "ellipse": 0,
+              "line": 1,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial",
+          "SimSun, Cambria"
+        ],
+        "text_elements": 13,
+        "tspan_elements": 8
+      },
+      "passed": true,
+      "source_sha256": "0a1ebfab1bc809b4a4d0ca233c5683cdb253149d469f3b435d59131430ca6a1d"
+    },
+    {
+      "file": "28_timing.svg",
+      "path": "/workspace/presentation-projects/duanju_introduction_pptmaster_ppt169_20261109/svg_output/28_timing.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 15,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 1,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 1,
+            "preset_names": {
+              "snip1Rect": 1
+            },
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial",
+          "SimSun, Cambria"
+        ],
+        "text_elements": 15,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "f090fb26baf0bd43ee6f640811b35015ad82165e05608070ad8224d1c7021925"
+    },
+    {
+      "file": "29_sources.svg",
+      "path": "/workspace/presentation-projects/duanju_introduction_pptmaster_ppt169_20261109/svg_output/29_sources.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 11,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 1,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial",
+          "SimSun, Cambria"
+        ],
+        "text_elements": 11,
+        "tspan_elements": 6
+      },
+      "passed": true,
+      "source_sha256": "765050c749d18ea5d6a7244455c2b8f92024e90f5879f4300ebad4993bd1603d"
+    },
+    {
+      "file": "30_closing.svg",
+      "path": "/workspace/presentation-projects/duanju_introduction_pptmaster_ppt169_20261109/svg_output/30_closing.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 6,
+          "images": {
+            "placements": 1,
+            "files": [
+              "1-12-06.png"
+            ],
+            "max_frame_share": 1.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 1,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial",
+          "SimSun, Cambria"
+        ],
+        "text_elements": 6,
+        "tspan_elements": 4
+      },
+      "passed": true,
+      "source_sha256": "aa87964dfa89d8e06740a2dc6721b9c910900f995aef36c3ad8c9070169bb56c"
+    }
+  ]
+}
