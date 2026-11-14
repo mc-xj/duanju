@@ -1,0 +1,28 @@
+{
+  "caveman": {
+    "repository": "https://github.com/JuliusBrussee/caveman",
+    "commit": "b4ee71d557d96e3cbc14f88fa6e953a1362865f5",
+    "mode": "official core skill; no installer, CLI, hooks",
+    "entry_sha256": "415d43518f2b1a9498c15a445d4657117b129ee5e81b19454ce348439cc6672b"
+  },
+  "ppt-master": {
+    "repository": "https://github.com/hugohe3/ppt-master",
+    "commit": "b243a950e9f85998705551fb1b77c6459573ff39",
+    "mode": "complete official skills/ppt-master snapshot",
+    "entry_sha256": "cda3f1f476a93a48385867dbdb89f661f27c35bfb670f51c7dbd53a3b300c856"
+  },
+  "markitdown": {
+    "repository": "https://github.com/microsoft/markitdown",
+    "commit": "ed178952a6672abdfd35b5f9e76a80b6cefc086e",
+    "mode": "official Python package source plus locally authored skill adapter",
+    "entry_sha256": "b3ba6841cd346a4d83fc0ec7d2dc1c299e36af9043f8a6ad3f52571f2c5787c2"
+  },
+  "harness-anything": {
+    "repository": "https://github.com/yb2460/harness-anything-mac",
+    "commit": "b448370d7a3b08ebef311e17215ff0bcc6c6fc81",
+    "original_repository": "https://github.com/yb2460/harness-anything",
+    "original_commit": "e1924f8499ad6aaa11c579d5492205cfaa89c5d6",
+    "mode": "same-author cross-platform package plus local skill/LibreOffice adapter; original MIT license retained from parent repository",
+    "entry_sha256": "a71352653a95263c20e5500fb014c7b44384eba49c2184a80b486c5b804be989"
+  }
+}

@@ -1,0 +1,7 @@
+.venv-tools/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.tools/*/source/build/
+.tools/*/source/dist/
+.tools/smoke-results/
