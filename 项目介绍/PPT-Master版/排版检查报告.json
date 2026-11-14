@@ -174,7 +174,7 @@
         },
         {
           "file": "24_cards.svg",
-          "message": "Image ../images/片头_破晓太原.png is 1916x821 and renders at 0.19x scale in a 368x158 meet frame; the source is 2.1 MiB — file-size advisory only, not an aspect-ratio warning; consider a smaller source asset, or export with svg_to_pptx.py --image-sizing display to downsize at export time"
+          "message": "Image ../images/片头_破晓龙城.png is 1916x821 and renders at 0.19x scale in a 368x158 meet frame; the source is 2.1 MiB — file-size advisory only, not an aspect-ratio warning; consider a smaller source asset, or export with svg_to_pptx.py --image-sizing display to downsize at export time"
         },
         {
           "file": "24_cards.svg",
@@ -1685,7 +1685,7 @@
       "exists": true,
       "errors": [],
       "warnings": [
-        "Image ../images/片头_破晓太原.png is 1916x821 and renders at 0.19x scale in a 368x158 meet frame; the source is 2.1 MiB — file-size advisory only, not an aspect-ratio warning; consider a smaller source asset, or export with svg_to_pptx.py --image-sizing display to downsize at export time",
+        "Image ../images/片头_破晓龙城.png is 1916x821 and renders at 0.19x scale in a 368x158 meet frame; the source is 2.1 MiB — file-size advisory only, not an aspect-ratio warning; consider a smaller source asset, or export with svg_to_pptx.py --image-sizing display to downsize at export time",
         "Image ../images/第01集_雨夜翻页.png is 1916x821 and renders at 0.19x scale in a 368x158 meet frame; the source is 1.7 MiB — file-size advisory only, not an aspect-ratio warning; consider a smaller source asset, or export with svg_to_pptx.py --image-sizing display to downsize at export time"
       ],
       "info": {
@@ -1695,7 +1695,7 @@
           "images": {
             "placements": 3,
             "files": [
-              "片头_破晓太原.png",
+              "片头_破晓龙城.png",
               "片尾_致敬先辈.png",
               "第01集_雨夜翻页.png"
             ],
